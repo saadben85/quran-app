@@ -1,23 +1,54 @@
 {
+  "id": "/quran-app/",
   "name": "القرآن الكريم",
   "short_name": "القرآن",
   "description": "اختبار حفظ القرآن برواية ورش عن نافع",
   "start_url": "/quran-app/",
   "display": "standalone",
+  "orientation": "portrait",
   "background_color": "#1b4332",
   "theme_color": "#1b4332",
   "lang": "ar",
   "dir": "rtl",
- "icons": [
-  {
-    "src": "https://via.placeholder.com/512x512/1b4332/f0d060.png",
-    "sizes": "512x512",
-    "type": "image/png",
-    "purpose": "any maskable"
-  }
-]
-
+  "categories": [
+    "education",
+    "books",
+    "reference"
+  ],
+  "icons": [
+    {
+      "src": "https://via.placeholder.com/192x192/1b4332/f0d060.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://via.placeholder.com/512x512/1b4332/f0d060.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://via.placeholder.com/512x512/1b4332/f0d060.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "https://via.placeholder.com/1080x1920/1b4332/ffffff.png?text=Mobile+View",
+      "sizes": "1080x1920",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "تطبيق القرآن الكريم على الجوال"
+    },
+    {
+      "src": "https://via.placeholder.com/1920x1080/1b4332/ffffff.png?text=Desktop+View",
+      "sizes": "1920x1080",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "تطبيق القرآن الكريم على الحاسوب"
+    }
+  ]
 }
-
-
-
