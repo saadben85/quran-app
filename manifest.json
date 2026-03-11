@@ -12,42 +12,42 @@
   "dir": "rtl",
   "categories": [
     "education",
-    "books",
-    "reference"
+    "books"
   ],
   "icons": [
     {
-      "src": "https://via.placeholder.com/192x192/1b4332/f0d060.png",
+      "src": "icon-512.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "https://via.placeholder.com/512x512/1b4332/f0d060.png",
+      "src": "icon-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "https://via.placeholder.com/512x512/1b4332/f0d060.png",
+      "src": "icon-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"
     }
   ],
- "screenshots": [
+  "screenshots": [
     {
-      "src": "mobile.png", 
+      "src": "mobile.png",
       "sizes": "1080x1920",
       "type": "image/png",
       "form_factor": "narrow",
-      "label": "تطبيق القرآن الكريم على الجوال"
+      "label": "عرض التطبيق على الجوال"
     },
     {
       "src": "desktop.png",
       "sizes": "1920x1080",
       "type": "image/png",
       "form_factor": "wide",
-      "label": "تطبيق القرآن الكريم على الحاسوب"
+      "label": "عرض التطبيق على الحاسوب"
     }
   ]
+}
