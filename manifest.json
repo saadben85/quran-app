@@ -35,20 +35,19 @@
       "purpose": "maskable"
     }
   ],
-  "screenshots": [
+ "screenshots": [
     {
-      "src": "https://via.placeholder.com/1080x1920/1b4332/ffffff.png?text=Mobile+View",
+      "src": "mobile.png", 
       "sizes": "1080x1920",
       "type": "image/png",
       "form_factor": "narrow",
       "label": "تطبيق القرآن الكريم على الجوال"
     },
     {
-      "src": "https://via.placeholder.com/1920x1080/1b4332/ffffff.png?text=Desktop+View",
+      "src": "desktop.png",
       "sizes": "1920x1080",
       "type": "image/png",
       "form_factor": "wide",
       "label": "تطبيق القرآن الكريم على الحاسوب"
     }
   ]
-}
