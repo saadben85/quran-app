@@ -3,9 +3,6 @@ const FILES = [
   '/quran-app/',
   '/quran-app/index.html',
   '/quran-app/manifest.json',
-  'https://fonts.googleapis.com/css2?family=Amiri:wght@400;700&family=Scheherazade+New:wght@400;600;700&display=swap',
-  'https://fonts.gstatic.com/s/amiri/v27/J7aRnpd8CGxBHqUpvrIw74NL.woff2',
-  'https://fonts.gstatic.com/s/scheherazadenew/v22/4UaZrFhTvxVnHDvUkUiHg8jrSXsHPXNRBY0.woff2',
 ];
 
 self.addEventListener('install', e => {
